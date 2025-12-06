@@ -40,3 +40,28 @@ git checkout -b feature/<module-name>
 - Run tests before pushing  
 - Follow existing directory structure  
 
+
+---
+
+## 🗂 Documentation
+When making significant changes:
+
+- Update `/docs`  
+- Regenerate architecture diagrams if needed  
+- Update README if you add new features  
+
+---
+
+## 🛡 Safety & Ethics
+ORION has a safety module.  
+Do not introduce patterns or templates that cause unsafe or illegal behavior.
+
+---
+
+## 🤝 Need Help?
+Open an issue or ask in the team chat.  
+We welcome collaboration and discussion.
+
+---
+
+Thank you for helping make ORION better!
