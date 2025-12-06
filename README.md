@@ -9,10 +9,6 @@ ORION intelligently analyzes user prompts, understands intent, injects missing d
 ORION classifies user prompts into task types:
 - Coding  
 - Academic writing  
-- Creative writing  
-- Summarization  
-- Reasoning  
-- Transformations  
 
 ### **🧠 Hybrid Optimization Engine**
 Combines:
@@ -44,7 +40,3 @@ This allows ORION to improve without retraining any machine learning model.
 - Safe reformulation of risky inputs  
 
 ---
-
-## 🏗 System Architecture (High-Level)
-ORION’s pipeline:
-
